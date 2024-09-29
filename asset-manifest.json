@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bilal-1khan/todo-CRA-RTK.git/static/css/main.949bc311.css",
+    "main.js": "/Bilal-1khan/todo-CRA-RTK.git/static/js/main.78ac89f2.js",
+    "static/js/453.f881fb6e.chunk.js": "/Bilal-1khan/todo-CRA-RTK.git/static/js/453.f881fb6e.chunk.js",
+    "index.html": "/Bilal-1khan/todo-CRA-RTK.git/index.html",
+    "main.949bc311.css.map": "/Bilal-1khan/todo-CRA-RTK.git/static/css/main.949bc311.css.map",
+    "main.78ac89f2.js.map": "/Bilal-1khan/todo-CRA-RTK.git/static/js/main.78ac89f2.js.map",
+    "453.f881fb6e.chunk.js.map": "/Bilal-1khan/todo-CRA-RTK.git/static/js/453.f881fb6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949bc311.css",
+    "static/js/main.78ac89f2.js"
+  ]
+}
