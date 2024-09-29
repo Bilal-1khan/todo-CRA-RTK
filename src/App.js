@@ -1,24 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import TodoForm from "./components/TodoForm";
+import Todos from "./components/Todos";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <h1 className='text-red-700 my-4 capitalize text-3xl text-center font-bold'>creating todo with redux toolkit in create-react-app(CRA)</h1>
+    <TodoForm/>
+    <Todos/>
+    </>
   );
 }
 
